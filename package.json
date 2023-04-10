@@ -6,6 +6,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
+    "typecheck": "nuxt typecheck",
     "lint": "eslint --max-warnings 0 \"src/**/*.{ts,vue}\"",
     "lint:fix": "eslint --fix \"src/**/*.{ts,vue}\"",
     "format": "prettier --check \"src/**/*.{ts,vue}\"",
