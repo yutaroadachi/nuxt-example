@@ -21,7 +21,7 @@
     "autoprefixer": "^10.4.14",
     "eslint": "^8.37.0",
     "jsdom": "^21.1.1",
-    "nuxt": "^3.3.3",
+    "nuxt": "^3.4.0",
     "nuxt-vitest": "^0.6.9",
     "postcss": "^8.4.21",
     "prettier": "^2.8.7",
